@@ -5,3 +5,7 @@
 ## <p align="center"> Programming 
 
 <p align="center"> I Use Python, C/C++ And Java, But I Am Learning HTML/CSS And Assembly/HLA. I Also Plan To Learn JavaScript & Rust. 
+
+## <p align="center"> Other 
+
+<p align="center"> I Use Debian Linux, Visual Studio Code, Vim && Replit. 
